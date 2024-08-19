@@ -2,7 +2,7 @@ console.log("Trabalhando com condicionais")
 
 const idadeComprador = 15;
 const estaAcompanhada = true;
-const passagem = fale;
+const passagem = false;
 
 const listaDestinos = new Array (
     `Salvador`,//0
